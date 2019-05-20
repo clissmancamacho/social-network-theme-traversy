@@ -52,6 +52,7 @@
   }
 
   .profile-grid {
+    display: block;
     grid-template-areas: "top" "about" "exp" "edu" "github";
   }
 
